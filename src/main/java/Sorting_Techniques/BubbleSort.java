@@ -4,6 +4,7 @@ public class BubbleSort {
 
     /*
     Time Complexity is O(n^2)
+    Stable Algorithm as it saves relative positioning.
      */
 
     static int[] arr = {21, 32, 3, 4, 5, 6, 7};
